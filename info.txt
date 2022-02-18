@@ -1,0 +1,6 @@
+name: Arthur Boyle
+age: 18
+address: Blk 8 Lot 19, Boyle Village, Japan
+email: kingarthurboyle@gmail.com
+date created: 2022-02-18 
+time created: 16:29:49
